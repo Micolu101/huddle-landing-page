@@ -32,9 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Micolu101/Order_Summary_Component.git]
-- Live Site URL: [https://micolu101.github.io/Order_Summary_Component/]
-
+- Solution URL: [Github Page](https://github.com/Micolu101/huddle-landing-page)
+- Live Site URL: [Live Server](https://micolu101.github.io/Order_Summary_Component/)
 ## My process
 
 ### Built with
@@ -44,8 +43,8 @@ Users should be able to:
 - Flexbox
 - CSS Grid layout
 - Mobile-first workflow
-- [https://fonts.googleapis.com] - For styles
-- [https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css] - For social media logl
+- [FontStyles](https://fonts.googleapis.com) - For styles
+- [Media Logo](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css) - For social media logo
 
 ### What I learned
 
