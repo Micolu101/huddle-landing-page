@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Page](https://github.com/Micolu101/huddle-landing-page)
-- Live Site URL: [Live Server](https://micolu101.github.io/Order_Summary_Component/)
+- Live Site URL: [Live Server](https://micolu101.github.io/huddle-landing-page/)
 ## My process
 
 ### Built with
