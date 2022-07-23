@@ -95,7 +95,7 @@ footer {
 
   .hero img {
     width: 100%;
-    margin-bottom: 10%;
+    margin: 10% 0;
   }
   .discription {
     display: flex;
