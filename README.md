@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 <img src="/images/Desktop_huddle-landing-page.png" alt="DesktopView"  style="width: 289px; height:161px">
-<img src="/images/Mobile_huddle-landing-page.png" alt="MobileView"  style="width: 250px; height:600px">
+<img src="/images/Mobile_huddle-landing-page.png" alt="MobileView"  style="width: 125px; height:300px">
 
 ### Links
 
